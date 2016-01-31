@@ -6,7 +6,7 @@ While the TheAudioDB music video scrapper is broken for the Kodi (OSMC) media ce
 
 Open kodimvnfo.py with a text editor and change the <i>mypath</i> variable to your main music video directory.
 
-File should be rename in the format <i>Artist name - Song name (Extra info)</i>. <i>(Extra info)</i> is an optional parameter.
+File should be renamed in the format <i>Artist name - Song name (Extra info)</i>. <i>(Extra info)</i> is an optional parameter.
 
 Run in terminal >> python kodimvnfo.py
 
