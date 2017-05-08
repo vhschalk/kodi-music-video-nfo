@@ -8,7 +8,7 @@ Open kodimvnfo.py with a text editor and change the <i>mypath</i> variable to yo
 
 File should be renamed in the format <i>Artist Name - Song Name (Extra Info)</i>. <i>(Extra Info)</i> is optional.
 
-A date parameter can be provided in <i>Extra Info</i> in the format yymmdd or yyyy. The code will automatically find the date entry if multiple parameters is added to <i>Extra Info</i>
+A date parameter can be provided in <i>Extra Info</i> in the format yymmdd or yyyy. The code will automatically find the date entry if multiple parameters are added to <i>Extra Info</i>
 
 Run in terminal >> python kodimvnfo.py
 
